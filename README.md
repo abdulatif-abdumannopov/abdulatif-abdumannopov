@@ -9,7 +9,7 @@
 ### About me
   1. Backend Developer with 1 year experience
   2. I love using **Golang** in my projects
-  3. Web services
+  3. Web services developer
 ### Skills
   <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
