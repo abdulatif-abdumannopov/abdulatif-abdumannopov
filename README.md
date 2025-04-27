@@ -10,6 +10,7 @@
   1. Backend Developer with 1 year experience
   2. I love using **Golang** in my projects
   3. Web services developer
+  4. Enjoy working with **Encryption**.
 ### Skills
   <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
