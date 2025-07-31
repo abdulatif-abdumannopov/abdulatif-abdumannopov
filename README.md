@@ -26,7 +26,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulatif-abdumannopov&layout=compact&theme=tokyonight&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulatif-abdumannopov/>
 </p>
 
 ---
